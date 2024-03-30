@@ -52,10 +52,12 @@
     .offers{
         padding: 0px 80px;
         margin-bottom: 120px;
+        margin-top: 150px;
     }
 
     .offers-left h1{
-        font-size: 40;
+        font-size: 50px;
+        font-weight: 500;
     }
 
     .offers-left p{
@@ -133,7 +135,7 @@
     }
 
     .offers-left h1{
-        font-size: 16;
+        font-size: 16px;
     }
 
     .offers-left p{

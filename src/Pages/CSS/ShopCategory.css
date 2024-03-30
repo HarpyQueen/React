@@ -42,8 +42,3 @@
     font-weight: 500;
 }
 
-@media(max-width:1280px){
-    .shopcategory-banner{
-        width: 50px;
-    }
-}
